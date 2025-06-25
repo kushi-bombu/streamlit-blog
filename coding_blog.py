@@ -7,7 +7,7 @@ st.title("👩‍💻 Spurthy's Coding Blog")
 st.markdown("Welcome to my blog! I share beginner-friendly coding tutorials.")
 
 # Load blog posts
-post_dir = "Kushi-bombu/streamlit-blog/posts"
+post_dir = "posts"
 
 for post_file in sorted(os.listdir(post_dir)):
     with open(os.path.join(post_dir, post_file), "r", encoding="utf-8") as f:
