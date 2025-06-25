@@ -1,11 +1,8 @@
+### 🧮 Build a Simple Calculator in Python
 
-# My First Blog Post
+In this blog post, let’s create a basic calculator using functions.  
+This is beginner-friendly and covers all 4 basic operations: add, subtract, multiply, and divide.
 
-Hey everyone! 👋  
-Welcome to my *Streamlit blog*.  
-I'm learning to code and sharing my journey here!  
-
-Stay tuned for fun posts, tips, and coding experiments! 💻✨
 python
 def add(x, y):
     return x + y
